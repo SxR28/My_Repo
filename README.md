@@ -1,11 +1,10 @@
 <h1> Hi there! 😛 </h1>
-<h3><code>$ Read This🤤</code></h3>
+<h3><code>$ Read This  😛</code></h3>
   <h4>My name is Sorin, and I'm a programmer, coder, developer , freelancer , youtuber <b> [ INCOMING ] </b> and a lot other stuff </h4>
   <h4>Currently, I'm</h4>
   <ul>
     <li>Learning C#</li>
-    <li>Learning to use OOP<strong>Proficiently</strong></li>
-    <li>I`m not using Windows</li>
+    <li>Learning to use OO P<strong> Proficiently</strong></li>
   </ul>
   <br>
 <h2>The Stats I have 👨‍💻 </h2>
