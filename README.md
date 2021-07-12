@@ -24,9 +24,9 @@
 <h1> My Stats🖥 </h1>
 <div>
     <ul> 
-      <img alt=""  src = "https://github-readme-stats.vercel.app/api?username=SxR28&show_icons=true&theme=gotham"/>
+      <img alt=""  src = "https://github-readme-stats.vercel.app/api?username=SxR28&show_icons=true&theme=synthwave"/>
       <br>
-      <img alt=""  src = "https://github-readme-stats.vercel.app/api/top-langs/?username=SxR28&layout=compact&theme=gotham"/>
+      <img alt=""  src = "https://github-readme-stats.vercel.app/api/top-langs/?username=SxR28&layout=compact&theme=synthwave"/>
   </ul>
 </div>
 
