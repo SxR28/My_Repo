@@ -18,8 +18,6 @@
       <img alt="" src = "https://img.shields.io/badge/Premiere%20Pro-8f2cd1?style=for-the-badge&logo=adobe-premiere-pro&logoColor=black">
       <br>
       <img alt="" src = "https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white">
-      <li> 🛑C++ </LI
-  <li> 🛑INCOMING STUFF🛑 </li>
   </ul>
 </div>
 
