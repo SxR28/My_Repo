@@ -20,6 +20,7 @@
 <div>
     <ul> 
       <img alt=""  src = "https://github-readme-stats.vercel.app/api?username=SxR28&show_icons=true&theme=gotham"/>
+      <break>
       <img alt=""  src = "https://github-readme-stats.vercel.app/api/top-langs/?username=SxR28&layout=compact&theme=gotham"/>
   </ul>
 </div>
