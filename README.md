@@ -21,7 +21,6 @@
 <div>
     <ul> 
       <img alt=""  src = "https://github-readme-stats.vercel.app/api?username=SxR28&show_icons=true&theme=Tokio-midnight" />
-  <li> 🛑INCOMING STUFF🛑 </li>
   </ul>
 </div>
 
