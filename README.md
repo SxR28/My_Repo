@@ -13,7 +13,7 @@
 <h1> My ToolBelt🛠️ </h1>
 <div>
     <ul> 
-      <li> 🛑C# </li>
+      <li> <img alt = "" src = "https://img.shields.io/badge/-CSharp-%230170FE?&style=for-the-badge&logo=c-sharp&logoColor=white">
       <li> 🛑Adobe Premiere Pro </li>
       <li> 🛑C++ </LI
   <li> 🛑INCOMING STUFF🛑 </li>
