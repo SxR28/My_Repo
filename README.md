@@ -14,7 +14,7 @@
 <div>
     <ul> 
        <img alt = "" src = "https://img.shields.io/badge/-CSharp-%230170FE?&style=for-the-badge&logo=c-sharp&logoColor=white">
-       <br>
+      <br>
       <imt alt = "" src = "https://img.shields.io/badge/Premiere%20Pro-8f2cd1?style=for-the-badge&logo=adobe-premiere-pro&logoColor=black">
       <li> 🛑C++ </LI
   <li> 🛑INCOMING STUFF🛑 </li>
