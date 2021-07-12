@@ -1,4 +1,4 @@
-<h1> Hi there! � </h1>
+<h1> Hi there! 📌</h1>
 <h3><code>$ Read This</code></h3>
   <h4>My name is Sorin, and I'm a programmer, coder, developer , freelancer , youtuber and a lot other stuff </h4>
   <h4>Currently, I'm</h4>
@@ -12,7 +12,6 @@
       <li> 🛑C# </li>
       <li> 🛑Adobe Premiere Pro </li>
       <li> 🛑C++ </LI
-      <li> 🛑OOP Knowledge </li>
   <li> 🛑INCOMING STUFF🛑 </li>
   </ul>
 </div>
@@ -20,7 +19,7 @@
 <h1> My Stats🖥 </h1>
 <div>
     <ul> 
-      <img alt=""  src = "https://github-readme-stats.vercel.app/api?username=SxR28&show_icons=true&theme=Tokio-midnight" />
+      <img alt=""  src = "https://github-readme-stats.vercel.app/api?username=SxR28&show_icons=true&theme=Tokio-midnight"/>
   </ul>
 </div>
 
