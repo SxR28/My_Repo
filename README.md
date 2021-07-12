@@ -1,10 +1,10 @@
-<h1> Hi there! 😛 </h1>
+<h1> Hi there! � </h1>
 <h3><code>$ Read This</code></h3>
   <h4>My name is Sorin, and I'm a programmer, coder, developer , freelancer , youtuber and a lot other stuff </h4>
   <h4>Currently, I'm</h4>
   <ul>
     <li>Learning C#</li>
-    <li>Learning to use Inheritence <strong> Proficiently</strong></li>
+    <li>Learning to use Polyphorphism<strong> Proficiently</strong></li>
   </ul>
 <h1> My ToolBelt🛠️ </h1>
 <div>
