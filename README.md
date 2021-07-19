@@ -34,6 +34,5 @@
   <div>
     <ul>
       <li> 🎵Spotify : <a href="https://open.spotify.com/user/sorin006730">My Spotify</a> </li>
-      <li> 🔴Youtube : <a href = "https://www.youtube.com/channel/UCP63Cs9W-La046KGMyi5jWw"> My Youtube Channel </a> </li>
     </ul>
   </div>
