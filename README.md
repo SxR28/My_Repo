@@ -33,8 +33,7 @@
 <h1> My Media🔮 : </h1>
   <div>
     <ul>
-      <li> 🎵Spotify : <a href="https://open.spotify.com/user/sorin006730">Sorin`s Spotify</a> </li>
+      <li> 🎵Spotify : <a href="https://open.spotify.com/user/sorin006730">My Spotify</a> </li>
       <li> 🔴Youtube : <a href = "https://www.youtube.com/channel/UCP63Cs9W-La046KGMyi5jWw"> My Youtube Channel </a> </li>
-      <li> 🔵Linkedin : <a href = "https://www.linkedin.com/in/rosca-sorin-24a7a2181/"> My Linkedin </a> </li>
     </ul>
   </div>
