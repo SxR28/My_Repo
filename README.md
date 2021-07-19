@@ -1,6 +1,6 @@
 <h1> Hi there! 📌</h1>
 <h3><code>$ Read This</code></h3>
-  <h4>My name is Sorin, and I'm a programmer, coder, developer , freelancer , youtuber and a lot other stuff<br> I live in 🇪🇺Europe🇪🇺 </h4>
+  <h4>I'm a programmer, coder, developer , freelancer , youtuber and a lot other stuff<br> I live in 🇪🇺Europe🇪🇺 </h4>
   
  <h1>What am I doing ❓</h1>
  </div>
