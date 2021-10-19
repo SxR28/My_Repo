@@ -6,7 +6,7 @@
  </div>
   <ul>
     <li>Learning C#</li>
-    <li>Learning to use Polyphorphism<strong> Proficiently</strong></li>
+    <li>Reviweing OOP</li>
   </ul>
  </div>
  
