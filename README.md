@@ -36,6 +36,8 @@
       <img alt="" src = "https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white">
       <br>
       <img alt="" src = "https://img.shields.io/badge/Lua-35495E?style=for-the-badge&logo=lua&logoColor=4FC08D">
+      <br>
+      <img alt="" src = "https://img.shields.io/badge/Photoshop-5588ff?style=for-the-badge&logo=Adobe-Photoshop&logoColor=393939">
   </ul>
 </div>
 
