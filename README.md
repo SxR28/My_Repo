@@ -1,8 +1,24 @@
 <h1> Hi there! 📌</h1>
 <h3><code>$ Read This</code></h3>
-  <h4>I'm a programmer, coder, developer , freelancer , youtuber and a lot other stuff<br> I live in 🇪🇺Europe🇪🇺 </h4>
+
+<div> 
+  <h4> I'm a programmer / developer, using 
+    <ul>
+      <li> - C# (.NET)
+        <ul>
+          <li> ASP.NET Core </li> 
+          <li> Xamarin </li>  
+          <li> WPF </li>
+        </ul>
+      </li>
+      <li> - Lua </li>
+      <li> - C++ </li>
+    </ul>
+  </h4>
+</div>
   
  <h1>What am I doing ❓</h1>
+ 
  </div>
   <ul>
     <li>Learning C#</li>
@@ -34,5 +50,6 @@
   <div>
     <ul>
       <li> 🎵Spotify : <a href="https://open.spotify.com/user/sorin006730">My Spotify</a> </li>
+      <li> 🖥Youtube : <a href="https://www.youtube.com/channel/UCP63Cs9W-La046KGMyi5jWw"> My Youtube Channel </a> </li>
     </ul>
   </div>
