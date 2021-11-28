@@ -4,15 +4,15 @@
 <div> 
   <h4> I'm a programmer / developer, using 
     <ul>
-      <li> - C# (.NET)
+      <li> C# (.NET)
         <ul>
           <li> ASP.NET Core </li> 
           <li> Xamarin </li>  
           <li> WPF </li>
         </ul>
       </li>
-      <li> - Lua </li>
-      <li> - C++ </li>
+      <li> Lua </li>
+      <li> C++ </li>
     </ul>
   </h4>
 </div>
